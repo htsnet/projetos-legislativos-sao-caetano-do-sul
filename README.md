@@ -10,4 +10,4 @@ Diante desta situação, foi criado um programa em Python, usando as bibliotecas
 
 O processamento completo demorou mais de 6 horas!
 
-Você pode ver um vídeo que mostra o funcionamento em https://youtu.be/MSNBmRfQ5sg
+Você pode ver um vídeo que mostra o funcionamento em https://youtu.be/Q1JrN2nFoRY
