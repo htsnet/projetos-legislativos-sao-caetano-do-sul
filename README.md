@@ -9,3 +9,5 @@ O formato é bom para uma consulta isolada, mas ruim para a obtenção de todos 
 Diante desta situação, foi criado um programa em Python, usando as bibliotecas Pandas, Selenium e BeautifulSoup para acessar cada página e buscar os blocos de informações de cada projeto. Ao final, as informações são gravadas em um arquivo CSV para qualquer avaliação posterior.
 
 O processamento completo demorou mais de 6 horas!
+
+Você pode ver um vídeo que mostra o funcionamento em https://youtu.be/MSNBmRfQ5sg
